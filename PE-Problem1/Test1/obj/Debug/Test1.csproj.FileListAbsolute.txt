@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/Test1/Test1/bin/Debug/Test1.exe
+/Users/karimchamie/Projects/Test1/Test1/bin/Debug/Test1.pdb
+/Users/karimchamie/Projects/Test1/Test1/obj/Debug/Test1.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/Test1/Test1/obj/Debug/Test1.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/Test1/Test1/obj/Debug/Test1.exe
+/Users/karimchamie/Projects/Test1/Test1/obj/Debug/Test1.pdb
