@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/bin/Debug/SmallestMultiple.exe
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/bin/Debug/SmallestMultiple.pdb
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/obj/Debug/SmallestMultiple.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/obj/Debug/SmallestMultiple.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/obj/Debug/SmallestMultiple.exe
+/Users/karimchamie/Projects/SmallestMultiple/SmallestMultiple/obj/Debug/SmallestMultiple.pdb
