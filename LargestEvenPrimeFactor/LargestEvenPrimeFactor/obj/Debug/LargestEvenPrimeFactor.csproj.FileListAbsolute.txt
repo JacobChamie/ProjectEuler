@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/bin/Debug/LargestEvenPrimeFactor.exe
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/bin/Debug/LargestEvenPrimeFactor.pdb
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/obj/Debug/LargestEvenPrimeFactor.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/obj/Debug/LargestEvenPrimeFactor.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/obj/Debug/LargestEvenPrimeFactor.exe
+/Users/karimchamie/Projects/LargestEvenPrimeFactor/LargestEvenPrimeFactor/obj/Debug/LargestEvenPrimeFactor.pdb
