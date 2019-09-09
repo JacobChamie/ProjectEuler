@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/bin/Debug/LargestPalindromeProduct.exe
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/bin/Debug/LargestPalindromeProduct.pdb
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/obj/Debug/LargestPalindromeProduct.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/obj/Debug/LargestPalindromeProduct.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/obj/Debug/LargestPalindromeProduct.exe
+/Users/karimchamie/Projects/LargestPalindromeProduct/LargestPalindromeProduct/obj/Debug/LargestPalindromeProduct.pdb
