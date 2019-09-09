@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/bin/Debug/EvenFibonacciNumbers.exe
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/bin/Debug/EvenFibonacciNumbers.pdb
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/obj/Debug/EvenFibonacciNumbers.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/obj/Debug/EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/obj/Debug/EvenFibonacciNumbers.exe
+/Users/karimchamie/Projects/EvenFibonacciNumbers/EvenFibonacciNumbers/obj/Debug/EvenFibonacciNumbers.pdb
