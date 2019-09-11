@@ -1,0 +1,6 @@
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/bin/Debug/SumSquareDifference.exe
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/bin/Debug/SumSquareDifference.pdb
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/obj/Debug/SumSquareDifference.csprojAssemblyReference.cache
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/obj/Debug/SumSquareDifference.csproj.CoreCompileInputs.cache
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/obj/Debug/SumSquareDifference.exe
+/Users/karimchamie/Projects/SumSquareDifference/SumSquareDifference/obj/Debug/SumSquareDifference.pdb
